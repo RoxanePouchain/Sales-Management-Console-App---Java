@@ -63,7 +63,7 @@ _Below is how you can import the project and configure it._
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/JaceyStew6/ECF3.git
+   git clone https://github.com/RoxanePouchain/Sales-Management-Console-App---Java.git
    ```
 
 2. Add `hibernate` and `mysql` dependencies in the file named `pom.xml`
@@ -140,7 +140,7 @@ The second is `hibernate.properties`
 
 ## Contact
 
-Project Link: [https://github.com/JaceyStew6/ECF3](https://github.com/JaceyStew6/ECF3)
+Project Link: [https://github.com/JaceyStew6/ManagementConsoleApp](https://github.com/RoxanePouchain/Sales-Management-Console-App---Java.git)
 
 
 
